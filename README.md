@@ -1,1 +1,2 @@
 # Automobile-Parts-Inventory-Management-System-
+An automobile manufacturing plant has decided to implement an Automobile Parts Inventory Management System to mange its inventories. The plant has three warehouses, each for a different car model, which inturn have mulitple assembly sections. Unfortunately, because of the economic slowdown, only one variant of each model will be manufactured. Thus, it is required to create a program using python that has all features required by the company.
